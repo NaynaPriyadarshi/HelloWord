@@ -1,0 +1,7 @@
+D:\VisualStudioPracticeWork\ProgrammeQue_1\ProgrammeQue_1\bin\Debug\ProgrammeQue_1.exe.config
+D:\VisualStudioPracticeWork\ProgrammeQue_1\ProgrammeQue_1\bin\Debug\ProgrammeQue_1.exe
+D:\VisualStudioPracticeWork\ProgrammeQue_1\ProgrammeQue_1\bin\Debug\ProgrammeQue_1.pdb
+D:\VisualStudioPracticeWork\ProgrammeQue_1\ProgrammeQue_1\obj\Debug\ProgrammeQue_1.csproj.CoreCompileInputs.cache
+D:\VisualStudioPracticeWork\ProgrammeQue_1\ProgrammeQue_1\obj\Debug\ProgrammeQue_1.exe
+D:\VisualStudioPracticeWork\ProgrammeQue_1\ProgrammeQue_1\obj\Debug\ProgrammeQue_1.pdb
+D:\VisualStudioPracticeWork\ProgrammeQue_1\ProgrammeQue_1\obj\Debug\ProgrammeQue_1.csprojAssemblyReference.cache
